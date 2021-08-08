@@ -1,0 +1,14 @@
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: blue
+  }
+  input:focus {
+    border-color: blue
+  }
+  .form-select{
+    border: 0 !important;
+    border-bottom: 2px solid blue !important;
+    border-radius: 0% !important;
+  }
+  
